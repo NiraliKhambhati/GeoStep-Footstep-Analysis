@@ -1,5 +1,18 @@
 # 📌 GeoStep: Footstep Analysis using Geophone Sensors
 
+## 📜 Table of Contents
+
+- Project Overview
+- Why Geophone Sensors?
+- Dataset Description
+- Analysis & Insights
+- Results & Key Findings
+- Visualizations
+- How to Use
+- Future Scope
+- Contributors
+- License
+
 ## 📌 Project Overview
 GeoStep is an analytical project that explores footstep detection and activity recognition using geophone sensor data. The dataset contains various sensor readings, including energy, frequency, and statistical measures of vibrations caused by footsteps. This project applies data analysis and visualization techniques to extract meaningful patterns.
 
@@ -85,5 +98,8 @@ pip install pandas matplotlib seaborn numpy
 - Nirali Khambhati - Project Lead & Data Analyst
 
 - 📧 For Queries: Reach out via GitHub Issues or email!
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🎯 Author: Nirali Khambhati
